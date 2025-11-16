@@ -1,4 +1,3 @@
-alert("bem vindo ao CalcMaster");
 function insert(num){
 	//recebe o valor do usuario
 	var num1 = document.getElementById('resposta').innerHTML;
